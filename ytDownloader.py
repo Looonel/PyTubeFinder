@@ -38,6 +38,3 @@ if intro == "S" or intro == "s":
     changeDirectory()
 elif intro == "L" or intro == "l":
     changeDirectory()
-
-#C:\Users\lione\Downloads\ytDownloader.py
-#https://youtube.com/watch?v=9Zj0JOHJR-s
