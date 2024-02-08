@@ -14,7 +14,7 @@ def linkfunc(directory):
     yd = yt.streams.get_highest_resolution()
     file_size = yd.filesize
 
-    og_directory = '/Users/lione/Downloads/TestFolder'
+    og_directory = '[Input your desired directory]'
 
     if directory != "None":
         og_directory = directory
